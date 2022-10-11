@@ -9,18 +9,21 @@ This is a simple CRUD web application in real-time using Socket.io and Nodejs
 ### Installation
 
 ```
-git clone https://github.com/FaztWeb/websockets-nodejs-crud
+git clone https://github.com/DavidOlivera89/Note-Websocket
 ```
 
 ```
-cd websockets-nodejs-crud
+cd Note-Websocket
 ```
 
 ```
 npm install
 ```
 
-To execute in development mode
+You´ll need to put your environments vars in .env file... 
+Here you´ll need your credentials of mongodb...
+
+After, to execute in development mode
 
 ```
 npm run dev
